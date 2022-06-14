@@ -1,0 +1,17 @@
+.encabezado .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cuerpo .carousel{
+    display: flex;
+    flex-direction: column;  
+}
+.infoBio{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shoop{
+    align-items: center;
+}
